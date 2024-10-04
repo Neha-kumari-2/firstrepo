@@ -1,3 +1,3 @@
 # firstrepo
 this is my first repository
-author - neha
+author - neha(kumari neha)
